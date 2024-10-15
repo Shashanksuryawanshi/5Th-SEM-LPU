@@ -3,41 +3,60 @@
 
 Welcome to the repository for my 5th Semester Subjects. This repository includes notes, assignments, projects, and resources for the subjects I studied during the 5th semester.
 
-## Subjects Covered
+# 5th Semester Subjects and Resources
 
-### 1. Data Structures and Algorithms (DSA)
-- **Topics**: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Sorting, and Searching Algorithms.
-- **Resources**: Lecture notes, coding assignments, and reference books.
-- **Projects**: Implementation of various algorithms and data structures.
+Welcome to my 5th semester study repository! This repository contains notes, assignments, projects, and various resources for my subjects.
 
-### 2. Database Management Systems (DBMS)
-- **Topics**: ER Model, SQL, Normalization, Transaction Management, and NoSQL Databases.
-- **Resources**: SQL scripts, sample database designs, and reference materials.
-- **Projects**: Database design and implementation projects.
+## Subjects and Resources
 
-### 3. Operating Systems (OS)
-- **Topics**: Process Management, Memory Management, File Systems, and Security.
-- **Resources**: Lecture notes, lab assignments, and textbooks.
-- **Projects**: Implementation of OS concepts using C/C++.
+### 1. AUTOMATA
+- **Status**: okay
 
-### 4. Computer Networks (CN)
-- **Topics**: Network Models, TCP/IP, Routing, Network Security, and Wireless Networks.
-- **Resources**: Lecture notes, lab assignments, and reference books.
-- **Projects**: Network simulation projects using tools like NS2/NS3.
+### 2. DBMS (SQL)
+- **Status**: okay
 
-### 5. Software Engineering (SE)
-- **Topics**: Software Development Life Cycle (SDLC), Agile Methodologies, Software Design Patterns, and Testing.
-- **Resources**: Lecture notes, case studies, and reference books.
-- **Projects**: Development of software projects following Agile methodologies.
+### 3. DEVOPS (INT331)
+- **Status**: okay
 
-## How to Use This Repository
-- **Clone the Repository**: Use `git clone https://github.com/your-username/5th-semester-subjects.git` to clone the repository.
-- **Navigate to Subject Folders**: Each subject has its own folder containing relevant materials.
-- **Contributions**: Feel free to contribute by opening issues or submitting pull requests.
+### 4. INT 234
+- **Status**: okay
 
-## License
-This repository is licensed under the MIT License. Feel free to use and modify the materials for your own study purposes.
+### 5. Miscellaneous
+- **Status**: okay
+
+### 6. PANDAS (GFG)
+- **Status**: okay
+
+### 7. PEA (Analytical)
+- **Status**: okay
+
+### 8. PEV
+- **Status**: okay
+
+### 9. R Programming
+- **Status**: okay
+
+### 10. Reappear Maths
+- **Status**: okay
+
+### 11. Tableau
+- **Status**: okay
+
+## Additional Files
+- **CZ.pdf**: okay
+- **README.md**: Updated README file
+- **ResumeExample.doc**: okay
+- **ResumeFormat.doc**: okay
+- **SHASHANK RESUME.pdf**: okay
+- **final cv.pdf**: okay
+- **gfg.txt**: okay
+
+## Initial Commit
+- **.DS_Store**: THIS is my first commit
 
 ---
+
+Happy studying!
+
 
 Happy studying!
