@@ -1,0 +1,57 @@
+create table employee1(fname varchar2(10),lname varchar2(10),
+empid number(10),loc varchar2(10),salary number(10));
+
+insert into employee1 values('Ram','Sinha',1,'ldh',23400);
+insert into employee1 values('Sham','Sinha',2,'chd',26400);
+insert into employee1 values('Sham','Sinha',3,'chd',26400);
+insert into employee1 values('Sham','Sinha',4,'chd',26400);
+
+//between 
+
+select fname,lname from employee1 where salary between 20000 AND 25000;
+
+//OR
+
+select * from employee1 where empid=1 or empid=4;
+
+//IN
+
+Select * from employee1 where empid IN (2,3,4);
+
+
+Pattern matching
+
+select fname,empid from employee1 where fname LIKE 'S%';
+select fname,empid from employee1 where fname LIKE'%m';
+
+//IS NULL
+
+
+
+
+LOgical operators
+
+AND/OR/NOT
+
+//AND
+
+select * from employee1 where salary <24000 AND fname like '%m';
+
+//OR
+
+select * from employee1 where fname like 'r%' or fname like'S%';
+
+//NOT IN
+
+select * from employee1 where empid NOT IN(2,4);
+
+//ORDER
+
+select * from employee1 order by empid;
+
+
+select * from employee1 order by empid desc;
+
+//order by giving column number
+select * from employee1 order by 4 desc;
+
